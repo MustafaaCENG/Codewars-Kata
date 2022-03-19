@@ -1,5 +1,4 @@
 package KatasSolution;
-
 import java.util.Arrays;
 
 class PhotoManager {
@@ -16,7 +15,4 @@ class PhotoManager {
         }
         return Arrays.toString(array);
     }
-
 }
-
-
